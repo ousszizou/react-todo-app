@@ -1,0 +1,33 @@
+.todoListItems .todoComponent {
+  margin-bottom: 10px;
+}
+
+.todoListItems .todoComponent .todoCompRight {
+  text-align: left;
+}
+
+hr {
+  width: 75%;
+}
+
+.todoTitle {
+  color: #A9ABAE;
+  font-weight: bold;
+}
+
+.noTodos {
+  font-variant: small-caps;
+  color: #c1c1c1;
+}
+
+.fa-trash,
+.fa-pencil {
+  color: #8e8e8e;
+  cursor: pointer;
+}
+
+.fa-thumb-tack {
+  margin-right: 10px;
+  color: #e55b8a;
+  cursor: pointer;
+}
